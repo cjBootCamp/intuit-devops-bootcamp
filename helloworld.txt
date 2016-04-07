@@ -1,2 +1,2 @@
-Hello world. This line will need to be resolved and merged
+Hello world!! This line will need to be resolved and merged
 This line should be merged automatically
